@@ -1,0 +1,27 @@
+body {
+  background-color: #000000;
+}
+
+.ue img {
+  width: 50%;
+  display:block;
+  margin: auto;
+}
+
+.naka video{
+  width: 75%;
+  display: block;
+  margin: auto;
+}
+
+.shita img{
+  width: 20%;
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  color: #666666;
+  font-size: 50%;
+  text-align: center;
+}
